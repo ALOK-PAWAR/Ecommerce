@@ -1,0 +1,15 @@
+ <!--<section class="products">
+        <div class="product-card">
+            <h2>Product 1</h2>
+            <p>Description of the product.</p>
+            <p>Price: $10</p>
+            <button class="buy-btn" data-id="product1">Buy Now</button>
+        </div>
+        <div class="product-card">
+            <h2>Product 2</h2>
+            <p>Description of the product.</p>
+            <p>Price: $15</p>
+            <button class="buy-btn" data-id="product2">Buy Now</button>
+        </div>
+    
+    </section>  -->

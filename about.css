@@ -1,0 +1,68 @@
+/* Performed by ALOK PAWAR */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('bg.jpg'); /* Placeholder background image */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+
+header {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.header-buttons {
+    display: flex;
+    gap: 20px;
+}
+
+.header-buttons button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.header-buttons button:hover {
+    background-color: #45a049;
+}
+
+.about-container {
+    background-color: #45a049;;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    max-width: 800px;
+    width: 90%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 28px;
+    margin: 20px 0;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
